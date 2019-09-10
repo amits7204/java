@@ -2,7 +2,7 @@ public class ReverseString{
 	public void getReverseString(String aString){
 		String[] lString = aString.split(" ");
 		for(int i = lString.length-1; i >= 0; i--){
-			System.out.println(lString[i]);
+			System.out.print(lString[i] + " ");
 		}
 
 

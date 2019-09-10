@@ -3,11 +3,13 @@ public class PreserveReverseString{
 		System.out.println(aString);
 		String[] lString = aString.split(" ");
 		char lChar;
+		
 		for(String aStr : lString){
 			for(int i = aStr.length()-1; i >=0; i--){
 				lChar = aStr.charAt(i);
-				System.out.println(lChar);
+				System.out.print(lChar + " ");
 			}
+			
 		}
 	}
 	public static void main(String[] args){
