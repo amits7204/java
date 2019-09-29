@@ -10,6 +10,6 @@ public class RemoveDuplicateChar{
     }
     public static void main(String[] args){
         RemoveDuplicateChar lObj = new RemoveDuplicateChar();
-        lObj.removeDuplicateChar("AAMMIT");
+        lObj.removeDuplicateChar("AAMMITM");
     }   
 }
