@@ -2,6 +2,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - SubArray2",
+            "request": "launch",
+            "mainClass": "SubArray2",
+            "projectName": "java_22f14ece"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SubArray",
+            "request": "launch",
+            "mainClass": "SubArray",
+            "projectName": "java_22f14ece"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - ArrayListExm",
             "request": "launch",
             "mainClass": "ArrayListExm"
